@@ -22,7 +22,7 @@ const logger = {
   banner: () => {
     console.log(`${colors.cyan}${colors.bold}`);
     console.log('---------------------------------------------');
-    console.log('WUMP Auto Bot - Airdrop Insiders');
+    console.log(' 🍉🍉🍉 19Seniman From Insider 🍉🍉🍉 ');
     console.log(`---------------------------------------------${colors.reset}\n`);
   },
   agent: (msg) => console.log(`${colors.white}${msg}${colors.reset}`)
