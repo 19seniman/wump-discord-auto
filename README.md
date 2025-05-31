@@ -5,20 +5,20 @@
 
 ### Install
 ```
-git clone https://github.com/19seniman/send-message-to-discord.git
+git clone https://github.com/19seniman/wump-discord-auto.git
 ```
 ```
-cd send-message-to-discord
+cd wump-discord-auto
 ```
 ```
-python3 -m venv send-message-to-discord
+npm install axios user-agents
 ```
 ```
-source send-message-to-discord/bin/activate
+npm i
 ```
 Edit file `.tokens.txt` 
 ```
-nano .env
+nano tokens.txt
 ```
 Run Scrpt
 ```
