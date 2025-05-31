@@ -16,7 +16,7 @@ npm install axios user-agents
 ```
 npm i
 ```
-Edit file `.tokens.txt` 
+Edit file `tokens.txt` 
 ```
 nano tokens.txt
 ```
